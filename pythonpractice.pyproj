@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ec620af6-1205-4388-8b22-1eea33c3083b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>hello.py</StartupFile>
+    <StartupFile>hi_alice.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,57 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="hello.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="hi_alice.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="if_else_example.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="if_elif_example.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="fivetimes.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="gauss_total.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="fivetimes_alt.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="howdy_function.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="hello_world.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="global_local.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="div_error.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cat_math.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="new_number.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="sys_exit.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="spamloop.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="your_name_alt.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="your_name.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="while_example.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
